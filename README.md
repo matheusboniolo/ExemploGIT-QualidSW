@@ -1,1 +1,3 @@
 # ExemploGIT-QualidSW
+
+SIMULAÇÃO DE GIT HUB E GIT GUI
